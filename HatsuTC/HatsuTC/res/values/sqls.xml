@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="insert_sp_sql">INSERT INTO specialdaylist(date, is_national, is_company, is_extra, note) VALUES </string>
+    <string name="select_sp_sql">SELECT * FROM specialdaylist WHERE date = </string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_float_zero">0.0</string>
+    <string name="default_int_zero">0</string>
+    <string name="default_lbl_dateA">2013/01/01 (月)</string>
+    <string name="default_lbl_dateB">01/01</string>
+    <string name="default_lbl_notime">－ 未設定 －</string>
+    <string name="default_lbl_nationalday">国民の休日</string>
+    <string name="default_wages_hour_x125">1250</string>
+    <string name="default_wages_hour_x135">1350</string>
+    <string name="default_wages_prepayment">5000</string>
+</resources>

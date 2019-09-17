@@ -1,0 +1,25 @@
+1367402825984	型名 'HatsuTCDBOpenHelper' を変更します
+1367403414500	リソース 'timestrings.xml' の名前変更
+1367406631640	要素の削除
+1367503639171	型名 'DayTime' を変更します
+1367505294593	フィールド名 'mYear' の変更
+1367505308406	フィールド名 'mMonth' の変更
+1367505323140	フィールド名 'mDate' の変更
+1367505376125	フィールド名 'mSepTimeLunchS' の変更
+1367505388703	フィールド名 'mSepTimeLunchE' の変更
+1367505402375	フィールド名 'mSepTimeSupperS' の変更
+1367505414750	フィールド名 'mSepTimeSupperE' の変更
+1367507225156	メソッド名 'setTitle' を変更します
+1367507257046	メソッド名 'createWeekTitmeView' を変更します
+1367507323062	メソッド名 'addDayOfWeekLabels' を変更します
+1367509608750	リソース 'time1_background.xml' の名前変更
+1367509631265	リソース 'time2_background.xml' の名前変更
+1367509648890	リソース 'time3_background.xml' の名前変更
+1367510996453	リソース 'bg_holiday_unselect.xml' の名前変更
+1367511010000	リソース 'bg_saturday_unselect.xml' の名前変更
+1367511025203	リソース 'bg_weekday_unselect.xml' の名前変更
+1367596907859	ファイルをコピー
+1367597151968	ファイルをコピー
+1367597183187	ファイルをコピー
+1367598572078	リソース 'subviewdate.xml' の名前変更
+1367598586421	リソース 'subviewtitle.xml' の名前変更

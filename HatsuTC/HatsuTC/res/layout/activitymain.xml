@@ -1,0 +1,120 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btnPrev"
+   	    style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:onClick="BtnPrevOnClick"
+        android:text="@string/btn_prev_month"
+		android:textSize="14dp"/>
+
+    <Button
+        android:id="@+id/btnNext"
+   	    style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:onClick="BtnNextOnClick"
+        android:text="@string/btn_next_month"
+		android:textSize="14dp"/>
+
+    <TextView
+        android:id="@+id/lblMonth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnPrev"
+        android:layout_alignBottom="@+id/btnPrev"
+        android:layout_centerHorizontal="true"
+        android:text=""
+		android:textSize="14dp"/>
+
+    <TableLayout 
+        android:id="@+id/tblWTTotal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnPrev">
+
+        <TableRow
+            android:id="@+id/rowWTTotal1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+        </TableRow>
+        <TableRow
+            android:id="@+id/rowWTTotal2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+        </TableRow>
+
+    </TableLayout>
+
+    <LinearLayout
+        android:id="@+id/listWeekNames"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tblWTTotal"
+        android:paddingTop="2dp"
+        android:gravity="center_horizontal">
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/listWeekNames"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/listMonthWeek1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/listMonthWeek2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/listMonthWeek3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/listMonthWeek4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+        </LinearLayout>
+        
+        <LinearLayout
+            android:id="@+id/listMonthWeek5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/listMonthWeek6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal" >
+        </LinearLayout>
+
+     </LinearLayout>
+
+</RelativeLayout>

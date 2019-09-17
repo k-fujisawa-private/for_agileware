@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">勤怠管理 －初桜－</string>
+    <string name="action_settings">設定</string>
+    <string name="btn_prev_month">前月</string>
+    <string name="btn_next_month">次月</string>
+
+    <!-- 曜日文字(CalendarのDAY_OF_WEEKの値と同期する為、順番変更不可) -->
+    <string-array name="day_of_week_names">
+        <item>日</item>
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+        <item>土</item>
+    </string-array>
+
+    <string name="menu_fixtime">固定時間設定</string>
+    <string name="menu_fixtime_77_00">通常 7.7(h) + 残業 0.0(h)</string>
+    <string name="menu_fixtime_77_05">通常 7.7(h) + 残業 0.5(h)</string>
+    <string name="menu_fixtime_77_10">通常 7.7(h) + 残業 1.0(h)</string>
+    <string name="menu_fixtime_77_15">通常 7.7(h) + 残業 1.5(h)</string>
+    <string name="menu_fixtime_77_20">通常 7.7(h) + 残業 2.0(h)</string>
+    <string name="menu_fixtime_77_25">通常 7.7(h) + 残業 2.5(h)</string>
+    <string name="menu_fixtime_77_30">通常 7.7(h) + 残業 3.0(h)</string>
+    
+    <string name="menu_time_clear">設定時間消去</string>
+    
+    <string name="title_activity_time">出退社時間設定</string>
+    <string name="lbl_date">日付</string>
+    <string name="lbl_type">勤務形態</string>
+    <string name="lbl_stime">出社時間</string>
+    <string name="lbl_etime">退社時間</string>
+
+    <string-array name="worktype">
+        <item>通常勤務</item>
+        <item>所定休日勤務</item>
+        <item>法定休日勤務</item>
+    </string-array>
+
+    <string name="time_sep">:</string>
+    <string name="lbl_time_fixed_weekday">所定内</string>
+    <string name="lbl_time_extra_weekday">所定外</string>
+    <string name="lbl_time_fixed_holiday">所定休日</string>
+    <string name="lbl_time_legal_holiday">法定休日</string>
+    <string name="lbl_check_prepayment">仮払い対象</string>
+    <string name="lbl_time">時間</string>
+    <string name="lbl_total">源泉支給額</string>
+    <string name="lbl_total_tax">課税対象額</string>
+    <string name="lbl_transportation_expenses">交通費</string>
+    <string name="lbl_unemployment">雇用保険料</string>
+    <string name="lbl_income_tax">源泉所得税</string>
+    <string name="lbl_suspense_payment">仮払い金</string>
+    <string name="lbl_gross_pay">総支給額</string>
+    <string name="lbl_total_deduction">控除総額</string>
+    <string name="lbl_direct_deposit">口座振込額</string>
+    <string name="lbl_payslip_warning">※実際の明細と一致しない場合があります。</string>
+    <string name="btn_ok">決定</string>
+    <string name="btn_ng">取消</string>
+    <string name="lbl_payslip">給与明細</string>
+
+    <string name="title_activity_setup">設定</string>
+    <string name="lbl_setup_contract">契約内容</string>
+    <string name="lbl_setup_wages_unit">円</string>
+    <string name="lbl_setup_wages_hour_x100">時給 (通常時)</string>
+    <string name="lbl_setup_wages_hour_x125">時給 (残業時)</string>
+    <string name="lbl_setup_wages_hour_x125_mag">円 (1.25倍)</string>
+    <string name="lbl_setup_wages_hour_x135">時給 (日曜出勤時)</string>
+    <string name="lbl_setup_wages_hour_x135_mag">円 (1.35倍)</string>
+    <string name="lbl_setup_wages_fare">交通費日額</string>
+    <string name="lbl_setup_wages_prepayment">仮払い日額</string>
+    <string name="lbl_setup_prepayment_normally">毎週仮払い(週払い)を受け取る</string>
+    <string name="lbl_setup_tax">税金関連</string>
+    <string name="lbl_setup_number_of_family">扶養家族数</string>
+    <string-array name="lbl_setup_familylist">
+        <item>0人</item>
+        <item>1人</item>
+        <item>2人</item>
+		<item>3人</item>
+		<item>4人</item>
+		<item>5人</item>
+		<item>6人</item>
+		<item>7人以上</item>
+	</string-array>
+	<string name="lbl_setup_period">契約期間</string>
+	<string name="lbl_setup_valid_period">有効期間</string>
+	<string name="lbl_setup_period_year">年</string>
+	<string name="lbl_setup_period_month">月まで</string>
+    
+</resources>

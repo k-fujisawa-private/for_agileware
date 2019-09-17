@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nationalday000">振替休日</string>
+    <string name="nationalday001">元旦</string>
+    <string name="nationalday002">成人の日</string>
+    <string name="nationalday003">建国記念日</string>
+    <string name="nationalday004">春分の日</string>
+    <string name="nationalday005">昭和の日</string>
+    <string name="nationalday006">憲法記念日</string>
+    <string name="nationalday007">みどりの日</string>
+    <string name="nationalday008">こどもの日</string>
+    <string name="nationalday009">海の日</string>
+    <string name="nationalday010">敬老の日</string>
+    <string name="nationalday011">秋分の日</string>
+    <string name="nationalday012">体育の日</string>
+    <string name="nationalday013">文化の日</string>
+    <string name="nationalday014">勤労感謝の日</string>
+    <string name="nationalday015">天皇誕生日</string>
+    
+    <string name="companyday000">振替勤務日</string>
+    <string name="companyday001">冬季休暇</string>
+    <string name="companyday002">メーデー</string>
+    <string name="companyday003">ゴールデンウィーク休暇</string>
+    <string name="companyday004">夏季休暇</string>
+    
+
+	<array name="specialdays2013">
+	    <item>@array/specialday20130101</item>
+	    <item>@array/specialday20130102</item>
+	    <item>@array/specialday20130103</item>
+	    <item>@array/specialday20130104</item>
+	    <item>@array/specialday20130114</item>
+	    <item>@array/specialday20130119</item>
+	    <item>@array/specialday20130211</item>
+	    <item>@array/specialday20130216</item>
+	    <item>@array/specialday20130320</item>
+	    <item>@array/specialday20130323</item>
+	    <item>@array/specialday20130429</item>
+	    <item>@array/specialday20130501</item>
+	    <item>@array/specialday20130503</item>
+	    <item>@array/specialday20130504</item>
+	    <item>@array/specialday20130505</item>
+	    <item>@array/specialday20130506</item>
+	    <item>@array/specialday20130511</item>
+	    <item>@array/specialday20130715</item>
+	    <item>@array/specialday20130720</item>
+	    <item>@array/specialday20130813</item>
+	    <item>@array/specialday20130814</item>
+	    <item>@array/specialday20130815</item>
+	    <item>@array/specialday20130816</item>
+	    <item>@array/specialday20130817</item>
+	    <item>@array/specialday20130916</item>
+	    <item>@array/specialday20130921</item>
+	    <item>@array/specialday20130923</item>
+	    <item>@array/specialday20130928</item>
+	    <item>@array/specialday20131014</item>
+	    <item>@array/specialday20131019</item>
+	    <item>@array/specialday20131103</item>
+	    <item>@array/specialday20131104</item>
+	    <item>@array/specialday20131109</item>
+	    <item>@array/specialday20131123</item>
+	    <item>@array/specialday20131223</item>
+	    <item>@array/specialday20131230</item>
+	    <item>@array/specialday20131231</item>
+	</array>
+    <!-- 2013年1月 -->
+    <integer-array name="specialday20130101">
+        <item>20130101</item>
+        <item>1</item>
+        <item>@string/nationalday001</item>
+    </integer-array>
+    <integer-array name="specialday20130102">
+        <item>20130102</item>
+        <item>2</item>
+        <item>@string/companyday001</item>
+    </integer-array>
+    <integer-array name="specialday20130103">
+        <item>20130103</item>
+        <item>2</item>
+        <item>@string/companyday001</item>
+    </integer-array>
+    <integer-array name="specialday20130104">
+        <item>20130104</item>
+        <item>2</item>
+        <item>@string/companyday001</item>
+    </integer-array>
+    <integer-array name="specialday20130114">
+        <item>20130114</item>
+        <item>1</item>
+        <item>@string/nationalday002</item>
+    </integer-array>
+    <integer-array name="specialday20130119">
+        <item>20130119</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2013年2月 -->
+    <integer-array name="specialday20130211">
+        <item>20130211</item>
+        <item>1</item>
+        <item>@string/nationalday003</item>
+    </integer-array>
+    <integer-array name="specialday20130216">
+        <item>20130216</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2013年3月 -->
+    <integer-array name="specialday20130320">
+        <item>20130320</item>
+        <item>1</item>
+        <item>@string/nationalday004</item>
+    </integer-array>
+    <integer-array name="specialday20130323">
+        <item>20130323</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2013年4月 -->
+    <integer-array name="specialday20130429">
+        <item>20130429</item>
+        <item>1</item>
+        <item>@string/nationalday005</item>
+    </integer-array>
+    <!-- 2013年5月 -->
+    <integer-array name="specialday20130501">
+        <item>20130501</item>
+        <item>2</item>
+        <item>@string/companyday002</item>
+    </integer-array>
+    <integer-array name="specialday20130503">
+        <item>20130503</item>
+        <item>1</item>
+        <item>@string/nationalday006</item>
+    </integer-array>
+    <integer-array name="specialday20130504">
+        <item>20130504</item>
+        <item>1</item>
+        <item>@string/nationalday007</item>
+    </integer-array>
+    <integer-array name="specialday20130505">
+        <item>20130505</item>
+        <item>1</item>
+        <item>@string/nationalday008</item>
+    </integer-array>
+    <integer-array name="specialday20130506">
+        <item>20130506</item>
+        <item>1</item>
+        <item>@string/nationalday000</item>
+    </integer-array>
+    <integer-array name="specialday20130511">
+        <item>20130511</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2013年6月 -->
+    <!-- 2013年7月 -->
+    <integer-array name="specialday20130715">
+        <item>20130715</item>
+        <item>1</item>
+        <item>@string/nationalday009</item>
+    </integer-array>
+    <integer-array name="specialday20130720">
+        <item>20130720</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2013年8月 -->
+    <integer-array name="specialday20130813">
+        <item>20130813</item>
+        <item>2</item>
+        <item>@string/companyday004</item>
+    </integer-array>
+    <integer-array name="specialday20130814">
+        <item>20130814</item>
+        <item>2</item>
+        <item>@string/companyday004</item>
+    </integer-array>
+    <integer-array name="specialday20130815">
+        <item>20130815</item>
+        <item>2</item>
+        <item>@string/companyday004</item>
+    </integer-array>
+    <integer-array name="specialday20130816">
+        <item>20130816</item>
+        <item>2</item>
+        <item>@string/companyday004</item>
+    </integer-array>
+    <integer-array name="specialday20130817">
+        <item>20130817</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2013年9月 -->
+    <integer-array name="specialday20130916">
+        <item>20130916</item>
+        <item>1</item>
+        <item>@string/nationalday010</item>
+    </integer-array>
+    <integer-array name="specialday20130921">
+        <item>20130921</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <integer-array name="specialday20130923">
+        <item>20130923</item>
+        <item>1</item>
+        <item>@string/nationalday011</item>
+    </integer-array>
+    <integer-array name="specialday20130928">
+        <item>20130928</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2013年10月 -->
+    <integer-array name="specialday20131014">
+        <item>20131014</item>
+        <item>1</item>
+        <item>@string/nationalday012</item>
+    </integer-array>
+    <integer-array name="specialday20131019">
+        <item>20131019</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2013年11月 -->
+    <integer-array name="specialday20131103">
+        <item>20131103</item>
+        <item>1</item>
+        <item>@string/nationalday013</item>
+    </integer-array>
+    <integer-array name="specialday20131104">
+        <item>20131104</item>
+        <item>1</item>
+        <item>@string/nationalday000</item>
+    </integer-array>
+    <integer-array name="specialday20131109">
+        <item>20131109</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <integer-array name="specialday20131123">
+        <item>20131123</item>
+        <item>1</item>
+        <item>@string/nationalday014</item>
+    </integer-array>
+	<!-- 2013年12月 -->
+	<integer-array name="specialday20131223">
+	    <item>20131223</item>
+	    <item>1</item>
+	    <item>@string/nationalday015</item>
+	</integer-array>
+	<integer-array name="specialday20131230">
+	    <item>20131230</item>
+	    <item>2</item>
+	    <item>@string/companyday001</item>
+	</integer-array>
+	<integer-array name="specialday20131231">
+	    <item>20131231</item>
+	    <item>2</item>
+	    <item>@string/companyday001</item>
+	</integer-array>
+    <array name="specialdays2012">
+        <item>@array/specialday20120101</item>
+        <item>@array/specialday20120102</item>
+        <item>@array/specialday20120103</item>
+        <item>@array/specialday20120104</item>
+        <item>@array/specialday20120107</item>
+        <item>@array/specialday20120109</item>
+        <item>@array/specialday20120114</item>
+        <item>@array/specialday20120211</item>
+        <item>@array/specialday20120320</item>
+        <item>@array/specialday20120324</item>
+        <item>@array/specialday20120429</item>
+        <item>@array/specialday20120430</item>
+        <item>@array/specialday20120501</item>
+        <item>@array/specialday20120502</item>
+        <item>@array/specialday20120503</item>
+        <item>@array/specialday20120504</item>
+        <item>@array/specialday20120505</item>
+        <item>@array/specialday20120716</item>
+        <item>@array/specialday20120721</item>
+        <item>@array/specialday20120813</item>
+        <item>@array/specialday20120814</item>
+        <item>@array/specialday20120815</item>
+        <item>@array/specialday20120818</item>
+        <item>@array/specialday20120917</item>
+        <item>@array/specialday20120922</item>
+        <item>@array/specialday20121008</item>
+        <item>@array/specialday20121013</item>
+        <item>@array/specialday20121103</item>
+        <item>@array/specialday20121123</item>
+        <item>@array/specialday20121124</item>
+        <item>@array/specialday20121223</item>
+        <item>@array/specialday20121224</item>
+        <item>@array/specialday20121231</item>
+    </array>
+    
+    <!-- 2012年特殊カレンダー情報 -->
+    <!-- 2012年1月 -->
+    <integer-array name="specialday20120101">
+        <item>20120101</item>
+        <item>1</item>
+        <item>@string/nationalday001</item>
+    </integer-array>
+    <integer-array name="specialday20120102">
+        <item>20120102</item>
+        <item>1</item>
+        <item>@string/nationalday000</item>
+    </integer-array>
+    <integer-array name="specialday20120103">
+        <item>20120103</item>
+        <item>2</item>
+        <item>@string/companyday001</item>
+    </integer-array>
+    <integer-array name="specialday20120104">
+        <item>20120104</item>
+        <item>2</item>
+        <item>@string/companyday001</item>
+    </integer-array>
+    <integer-array name="specialday20120107">
+        <item>20120107</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <integer-array name="specialday20120109">
+        <item>20120109</item>
+        <item>1</item>
+        <item>@string/nationalday002</item>
+    </integer-array>
+    <integer-array name="specialday20120114">
+        <item>20120114</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2012年2月 -->
+    <integer-array name="specialday20120211">
+        <item>20120211</item>
+        <item>1</item>
+        <item>@string/nationalday003</item>
+    </integer-array>
+    <!--  2012年3月 -->
+    <integer-array name="specialday20120320">
+        <item>20120320</item>
+        <item>1</item>
+        <item>@string/nationalday004</item>
+    </integer-array>
+    <integer-array name="specialday20120324">
+        <item>20120324</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2012年4月 -->
+    <integer-array name="specialday20120429">
+        <item>20120429</item>
+        <item>1</item>
+        <item>@string/nationalday005</item>
+    </integer-array>
+    <integer-array name="specialday20120430">
+        <item>20120430</item>
+        <item>1</item>
+        <item>@string/nationalday000</item>
+    </integer-array>
+    <!-- 2012年5月 -->
+    <integer-array name="specialday20120501">
+        <item>20120501</item>
+        <item>2</item>
+        <item>@string/companyday002</item>
+    </integer-array>
+    <integer-array name="specialday20120502">
+        <item>20120502</item>
+        <item>2</item>
+        <item>@string/companyday003</item>
+    </integer-array>
+    <integer-array name="specialday20120503">
+        <item>20120503</item>
+        <item >1</item>
+        <item>@string/nationalday006</item>
+    </integer-array>
+    <integer-array name="specialday20120504">
+        <item>20120504</item>
+        <item>1</item>
+        <item>@string/nationalday007</item>
+    </integer-array>
+    <integer-array name="specialday20120505">
+        <item>20120505</item>
+        <item>1</item>
+        <item>@string/nationalday008</item>
+    </integer-array>
+    <!-- 2012年6月 -->
+    <!-- 2012年7月 -->
+    <integer-array name="specialday20120716">
+        <item>20120716</item>
+        <item>1</item>
+        <item>@string/nationalday009</item>
+    </integer-array>
+    <integer-array name="specialday20120721">
+        <item>20120721</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2012年8月 -->
+    <integer-array name="specialday20120813">
+        <item>20120813</item>
+        <item>2</item>
+        <item>@string/companyday004</item>
+    </integer-array>
+    <integer-array name="specialday20120814">
+        <item>20120814</item>
+        <item>2</item>
+        <item>@string/companyday004</item>
+    </integer-array>
+    <integer-array name="specialday20120815">
+        <item>20120815</item>
+        <item>2</item>
+        <item>@string/companyday004</item>
+    </integer-array>
+    <integer-array name="specialday20120818">
+        <item>20120818</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2012年9月 -->
+    <integer-array name="specialday20120917">
+        <item>20120917</item>
+        <item>1</item>
+        <item>@string/nationalday010</item>
+    </integer-array>
+    <integer-array name="specialday20120922">
+        <item>20120922</item>
+        <item>1</item>
+        <item>@string/nationalday011</item>
+    </integer-array>
+    <!-- 2012年10月 -->
+    <integer-array name="specialday20121008">
+        <item>20121008</item>
+        <item>1</item>
+        <item>@string/nationalday012</item>
+    </integer-array>
+    <integer-array name="specialday20121013">
+        <item>20121013</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2012年11月 -->
+    <integer-array name="specialday20121103">
+        <item>20121103</item>
+        <item>1</item>
+        <item>@string/nationalday013</item>
+    </integer-array>
+    <integer-array name="specialday20121123">
+        <item>20121123</item>
+        <item>1</item>
+        <item>@string/nationalday014</item>
+    </integer-array>
+    <integer-array name="specialday20121124">
+        <item>20121124</item>
+        <item>0</item>
+        <item>@string/companyday000</item>
+    </integer-array>
+    <!-- 2012年12月 -->
+    <integer-array name="specialday20121223">
+        <item>20121223</item>
+        <item>1</item>
+        <item>@string/nationalday015</item>
+    </integer-array>
+    <integer-array name="specialday20121224">
+        <item>20121224</item>
+        <item>1</item>
+        <item>@string/nationalday000</item>
+    </integer-array>
+    <integer-array name="specialday20121231">
+        <item>20121231</item>
+        <item>2</item>
+        <item>@string/companyday001</item>
+    </integer-array>
+    
+</resources>

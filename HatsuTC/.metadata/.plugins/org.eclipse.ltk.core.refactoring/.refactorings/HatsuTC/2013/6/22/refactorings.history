@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;com.example.hatsutc.DateActivity.onFocusChange(...)&apos; のローカル変数の名前を &apos;inputMethodManager&apos; から &apos;imm&apos; に変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;HatsuTC&apos;&#x0D;&#x0A;- オリジナル要素: &apos;com.example.hatsutc.DateActivity.onFocusChange(View, boolean).inputMethodManager&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;inputMethodManager&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="ローカル変数名 &apos;inputMethodManager&apos; の変更" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.example.hatsutc{DateActivity.java[DateActivity~onFocusChange~QView;~Z@inputMethodManager!4619!4726!4638!4655!QInputMethodManager;!0!false" name="imm" references="true" stamp="1370093279921" version="1.0"/>
+</session>

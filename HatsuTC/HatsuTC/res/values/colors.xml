@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holiday_text">#FF0000</color>
+    <color name="saturday_text">#0000FF</color>
+    <color name="weekday_text">#000000</color>
+    <color name="ignoreday_text">#AAAAAA</color>
+
+    <color name="payslip_text">#000000</color>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="light_yellow">#FFFFDD</color>
+    <color name="light_green">#DDFFDD</color>
+
+    <color name="dark_green">#AAFFAA</color>
+    <color name="dark_blue">#AAAAFF</color>
+    <color name="dark_red">#FFAAAA</color>
+    <color name="saturday_background">#DDDDFF</color>
+    <color name="holiday_background">#FFDDDD</color>
+    <color name="ignoreday_background">#DDDDDD</color>
+    
+    <color name="select_background">#FF8040</color>
+    <color name="rectangle_outline">#808080</color>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="text_colors">
+        <item>@color/weekday_text</item>
+        <item>@color/saturday_text</item>
+        <item>@color/holiday_text</item>
+    </array>
+    
+    <array name="select_backgrounds">
+        <item>@drawable/bg_select_weekday</item>
+        <item>@drawable/bg_select_saturday</item>
+        <item>@drawable/bg_select_holiday</item>
+    </array>
+    
+    <array name="unselect_backgrounds">
+        <item>@drawable/bg_light_green</item>
+        <item>@drawable/bg_light_blue</item>
+        <item>@drawable/bg_light_red</item>
+    </array>
+    
+</resources>

@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+D:\Workspace\HatsuTC\.metadata\.plugins\org.eclipse.jdt.core
+472669260.index
+3305616829.index
+1609820285.index

@@ -1,0 +1,50 @@
+1368329829171	要素の削除
+1368334140312	フィールド名 'WegesWeekdayNormal' の変更
+1368334163796	フィールド名 'WeekdayExtra' の変更
+1368334218140	フィールド名 'Saturday' の変更
+1368334271125	フィールド名 'Holiday' の変更
+1368334319968	フィールド名 'AllTotal' の変更
+1368334474171	フィールド名 'AllTotalForTax' の変更
+1368334529546	フィールド名 'TransportationExpenses' の変更
+1368334663078	フィールド名 'GrossPayment' の変更
+1368334885687	フィールド名 'mWeekdayWTNom' の変更
+1368334905109	フィールド名 'mWeekdayWTExt' の変更
+1368334913046	フィールド名 'mWorktimeFixedWD' の変更
+1368334929562	フィールド名 'mSaturdayWT' の変更
+1368334960125	フィールド名 'mHolidayWT' の変更
+1368334971750	フィールド名 'mWorkTimeFixedWD' の変更
+1368334985203	フィールド名 'mWorkTimeExtraWD' の変更
+1368335001984	フィールド名 'mWorkTimeFixedHD' の変更
+1368335037218	メソッド名 'GetWeekdayWorkTimeNormal10' を変更します
+1368335050921	メソッド名 'GetWeekdayWorkTimeExtra10' を変更します
+1368335068562	メソッド名 'GetSaturdayWorkTime10' を変更します
+1368335076093	メソッド名 'GetHolidayWorkTime10' を変更します
+1368335102703	メソッド名 'GetWeekdayWorkTimeNormal' を変更します
+1368335116265	メソッド名 'GetWeekdayWorkTimeExtra' を変更します
+1368335132343	メソッド名 'GetSaturdayWorkTime' を変更します
+1368335140859	メソッド名 'GetHolidayWorkTime' を変更します
+1368335274203	フィールド名 'mTotalWTWN' の変更
+1368335279953	フィールド名 'mTotalWTWE' の変更
+1368335286031	フィールド名 'mTotalWTS' の変更
+1368335292953	フィールド名 'mTotalWTH' の変更
+1368336128843	要素の削除
+1368336187343	フィールド名 'GrossPay' の変更
+1368344111875	フィールド名 'mWeekdayNormal' の変更
+1368344144843	フィールド名 'mWeekdayExtra' の変更
+1368344156593	フィールド名 'mSaturday' の変更
+1368344167515	フィールド名 'mHoliday' の変更
+1368353675281	フィールド名 'IS_WEEKDAY' の変更
+1368353688359	フィールド名 'IS_SATURDAY' の変更
+1368353697437	フィールド名 'IS_HOLIDAY' の変更
+1368354719515	ファイルをコピー
+1368359946421	メソッド名 'createDateInfoView' を変更します
+1368366879921	要素の削除
+1368366894140	要素の削除
+1368532671125	リソース 'activity_setup.xml' の名前変更
+1368544471984	要素の削除
+1368546160375	フィールド名 'ithelper' の変更
+1368546167625	フィールド名 'sdhelper' の変更
+1368546172750	フィールド名 'wthelper' の変更
+1368548895765	フィールド名 'mCurrY' の変更
+1368548901031	フィールド名 'mCurrM' の変更
+1368548906828	フィールド名 'mCurrD' の変更
