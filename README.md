@@ -1,6 +1,9 @@
 # for_agileware
 # 1.HatsuTC
-約6年ほど前にスマホアプリを作った時のソースコード  
-開発環境はEclipse Java
+内容：バイト先の勤怠管理スマホアプリ  
+時期：約６年ほど前  
+開発：Eclipse + Java
 # 2.TryServoMotor
-ArudiuinoでのServoMotor動作の調査時のコード  
+内容：AruduinoでのServoMotor動作調査  
+時期：１ヶ月ほど前  
+開発：Aruduino→C++ / 制御→Python
